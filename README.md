@@ -1,5 +1,5 @@
 <p>👋  Hi, I’m Tony Ruiz. Check out my portofilo <a href="https://tonyruizo.me">tonyruizo.me<a/></p>
-<p>💻  I’m interested in Web App Development, Software Development, Artificial Intelligence.</p>
+<p>💻  I’m interested in Web Development, Software Development, Artificial Intelligence.</p>
 <p>📚  Currently learning Front-End Development @ Coursera offered by Meta. </p>
 <p>📚  Also pursing a Bachelor's degree in Computer Science @ HCC.</p>
 <p>🛠  I’m looking into building and collaborate on Front-End Web Projects.</p>
