@@ -1,8 +1,8 @@
-<p>👋  Hi, I’m Tony Ruiz. Check out my portofilo <a href="https://tonyruizo.me">tonyruizo.me<a/></p>
+<p>👋  Hi, I’m Tony Ruiz. Here is my current portofilo: <a href="https://tonyruizo.me">tonyruizo.me<a/></p>
 <p>💻  I’m interested in Web Development, Software Development, Artificial Intelligence.</p>
-<p>📚  Currently learning Front-End Development @ Coursera offered by Meta. </p>
-<p>📚  Also pursing a Bachelor's degree in Computer Science @ HCC.</p>
+<p>📚  Enrolled in Meta Front-End Developer Professional Certificate @ Coursera offered by Meta staff.</p>
+<p>📚  Also, currently enrolled in a Computer Science Engineering AA Pathway @ HCC.</p>
 <p>🛠  I’m looking into building and collaborate on Front-End Web Projects.</p>
 <p>📭  Email @ <a href="mailto:tonyruizo@pm.me">tonyruizo@pm.me<a/></p>
-<p>🔗  Socials: <a href="https://www.linkedin.com/in/tonyruizo/">Linkedin<a/>, <a href="https://twitter.com/tonyruizo">Twitter<a/> and <a href="https://gitlab.com/tonyruizo">Gitlab<a/>
+<p>🔗  Links: <a href="https://www.linkedin.com/in/tonyruizo/">Linkedin<a/>, <a href="https://twitter.com/tonyruizo">Twitter<a/> and <a href="https://gitlab.com/tonyruizo">Gitlab<a/>
 
