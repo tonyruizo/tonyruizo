@@ -1,4 +1,4 @@
-<p>👋  Hi, I’m Tony Ruiz. Here is my current portofilo: <a href="https://tonyruizo.me">tonyruizo.me<a/></p>
+<p>👋  Hi, I’m Tony Ruiz. Here is my current portfolio: <a href="https://tonyruizo.me">tonyruizo.me<a/></p>
 <p>💻  I’m interested in Web Development, Software Development, Artificial Intelligence.</p>
 <p>📚  Enrolled in Meta Front-End Developer Professional Certificate @ Coursera offered by Meta staff.</p>
 <p>📚  Also, currently enrolled in a Computer Science Engineering AA Pathway @ HCC.</p>
