@@ -1,5 +1,5 @@
 ## Welcome
-<p>I’m Tony Ruiz. Here is my current portfolio: <a href="https://tonyruizo.me">tonyruizo.me<a/></p>
+<p>Hello, My name is Tony Ruiz.</p>
 
 ## A little about me
 <p>I’m interested in Web Development, Software Development, and Machine Learning.</p>
