@@ -1,5 +1,5 @@
 ## Welcome
-<p>Hello, My name is Tony Ruiz.</p>
+<p>Hello, my name is Tony Ruiz.</p>
 
 ## A little about me
 <p>I’m interested in Web Development, Software Development, and Machine Learning.</p>
