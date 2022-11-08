@@ -5,8 +5,8 @@
 <p>Hello, my name is Tony Ruiz.</p>
 
 ## A little about me
-<p>I’m interested in Web Development, Software Development, and Machine Learning.</p>
-<p>I've enrolled in Meta Front-End Developer Professional Certificate @ Coursera offered by <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer#about">Meta staff</a>.  I've placed my work for this Meta course inside my Github Organization. Click <a href="https://github.com/truizormeno-coursera-meta">here</a> to view repos.</p>
+<p>I’m interested in Web Development, Software Development.</p>
+<p>I've enrolled in Meta Front-End Developer Professional Certificate @ Coursera offered by <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer#about">Meta staff</a>.  I've placed my work for this Meta course inside my Github Organization. Click <a href="https://github.com/tonyruizo-meta-coursera">here</a> to view repos.</p>
 <p>Also, currently enrolled in a Computer Science Engineering AA Pathway @ <a href="https://www.hccfl.edu/">HCC</a>.</p>
 
 ## How to reach me
