@@ -4,7 +4,7 @@
 ## Bio
 <p>I’m interested in Web and Software Development.</p>
 <p>I've enrolled in Meta Front-End Developer Professional Certificate @ Coursera offered by <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer#about">Meta staff</a>.  I've placed my work for this Meta course inside my Github Organization. Click <a href="https://github.com/tonyruizo-meta-coursera">here</a> to view repos.</p>
-<p>Also, currently enrolled in a Computer Science Engineering AA Pathway @ <a href="https://www.hccfl.edu/">HCC</a>.</p>
+<p>Also, currently enrolled in a Computer Programming and Analysis A.S. @ <a href="https://www.hccfl.edu/">HCC</a>.</p>
 
 ## How to reach me
 <p>Email @ <a href="mailto:tonyruizo@pm.me">tonyruizo@pm.me<a/></p>
