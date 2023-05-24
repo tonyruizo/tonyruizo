@@ -4,7 +4,7 @@
 <p>I am always open to connect with other like-minded individuals who share my passion for software development.</p>
 
 #### Currently Learning
-><i>C#, Visual Basic, XML, SQL</i>
+><i>C#, Visual Basic, XML, jQuery, SQL</i>
 
 #### Skills
 ><i>Javascript, HTML, CSS, React.js</i>
