@@ -7,7 +7,7 @@
 ><i>C#, Visual Basic, XML, jQuery, SQL</i>
 
 #### Skills
-><i>Javascript, HTML, CSS, React.js</i>
+><i>Javascript, HTML5, CSS, SASS, React.js</i>
 <br>
 
 <details><summary><strong>Degree</strong></summary><p>Computer Programming and Analysis A.S. @ <a href="https://www.hccfl.edu/">HCC</a>.</p>
