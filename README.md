@@ -1,13 +1,12 @@
 
 
 ## Bio
-<p>I am always open to connect with other like-minded individuals who share my passion for software development.</p>
+<p>I'm always open to connect with other like-minded individuals who share my passion for software development.</p>
 
-#### Currently Learning
-><i>C#, Visual Basic, XML, jQuery, SQL</i>
+<p></p> I am currently engaged in a project where I utilize ASP.NET as the framework, VB.NET for backend development, jQuery for frontend implementation, and SQL Server as the database management system.</p>
 
-#### Skills
-><i>Javascript, HTML5, CSS, SASS, React.js</i>
+
+
 <br>
 
 <details><summary><strong>Degree</strong></summary><p>Computer Programming and Analysis A.S. @ <a href="https://www.hccfl.edu/">HCC</a>.</p>
