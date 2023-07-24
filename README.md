@@ -1,9 +1,9 @@
 
 
 ## Bio
-<p>I'm always open to connect with other like-minded individuals who share my passion for software development.</p>
+<p>I'm always open to connecting with other like-minded individuals who share my passion for software development.</p>
 
-<p></p> I am currently engaged in a project where I utilize ASP.NET as the framework, VB.NET for backend development, jQuery for frontend implementation, and SQL Server as the database management system.</p>
+<p></p> I am currently engaged in a project utilizing ASP.NET, VB.NET, jQuery, Bootstrap, and SQL Server.</p>
 
 
 
