@@ -1,9 +1,9 @@
 
 
 ## Bio
-<p>I'm always open to connecting with other like-minded individuals who share my passion for software development.</p>
+<p>Hello, I'm passionate about software development and enjoy connecting with like-minded individuals.</p>
 
-<p></p> I am currently engaged in a project utilizing ASP.NET, VB.NET, jQuery, Bootstrap, and SQL Server.</p>
+<p>I am working on a project that uses ASP.NET, VB.NET, jQuery, Bootstrap, and SQL Server.</p>
 
 
 
