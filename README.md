@@ -3,7 +3,7 @@
 ## Bio
 <p>Hello, I'm passionate about software development and enjoy connecting with like-minded individuals.</p>
 
-<p>I am working on a project that uses ASP.NET, VB.NET, jQuery, Bootstrap, and SQL Server.</p>
+<p>I am currently part of a team that is utilizing ASP.NET, VB.NET, jQuery, Bootstrap, and SQL Server to work on a project.</p>
 
 
 
