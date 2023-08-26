@@ -15,6 +15,9 @@
   Click <a href="https://github.com/tonyruizo-meta-coursera">here</a> to view repos.</p></details>
 
 <br>
+<details><summary><strong>Recent Projects</strong></summary>
+Click <a href="https://github.com/tonyruizo-meta-coursera/capstone-little-lemon">here</a> to see view the code.</p></details>
+<br>
 
 ## How to reach me
 <p>Email @ <a href="mailto:tonyruizo@pm.me">tonyruizo@pm.me<a/></p>
