@@ -3,9 +3,6 @@
 ## Bio
 <p>Hello, I'm passionate about software development and enjoy connecting with like-minded individuals.</p>
 
-<p>I am currently part of a team that is utilizing ASP.NET, VB.NET, jQuery, Bootstrap, and SQL Server to work on a project.</p>
-
-
 
 <br>
 
@@ -13,7 +10,8 @@
   <p><i>Present - Fall 2024</i></p></details>
 
 <details><summary><strong>Certifications</strong></summary><p>Meta Front-End Developer Certification - offered by <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer#about">Meta staff</a>. 
-  <p><img src="Meta-front-end-cert.png" width="250" height="200" /></p>
+  <p><img src="Meta-front-end-cert.png" width="250"
+ height="200" /></p>
   Click <a href="https://github.com/tonyruizo-meta-coursera">here</a> to view repos.</p></details>
 
 <br>
