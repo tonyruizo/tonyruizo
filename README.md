@@ -3,9 +3,19 @@
 ## Bio
 <p>Hello, I'm passionate about software development and enjoy connecting with like-minded individuals.</p>
 
+<br>
+
+## Projects
+<details><summary><strong>Recent Project</strong></summary>
+  <br>
+  <p>Meta Capstone Project using <a href="https://react.dev/">React.js</a></p>
+  <p></p><a href="https://tonyruizo-little-lemon.netlify.app/" target="_blank"><img src="metaCapstoneProject.gif" alt="Alt Text" height="200"/></a></p>
+  <a href="https://github.com/tonyruizo-meta-coursera/capstone-little-lemon">View Code</a>
+</details>
 
 <br>
 
+## Education
 <details><summary><strong>Degree</strong></summary><p>Computer Programming and Analysis A.S. @ <a href="https://www.hccfl.edu/">HCC</a>.</p>
   <p><i>Present - Fall 2024</i></p></details>
 
@@ -14,13 +24,6 @@
  height="200" /></p>
   Click <a href="https://github.com/tonyruizo-meta-coursera">here</a> to view repos.</p></details>
 
-<br>
-<details><summary><strong>Recent Projects</strong></summary>
-  <br>
-  <p>Meta Capstone</p>
-  <p></p><a href="https://tonyruizo-little-lemon.netlify.app/" target="_blank"><img src="metaCapstoneProject.gif" alt="Alt Text" height="200"/></a></p>
-  <a href="https://github.com/tonyruizo-meta-coursera/capstone-little-lemon">View Code</a>
-</details>
 <br>
 
 ## How to reach me
