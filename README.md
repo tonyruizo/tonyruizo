@@ -16,7 +16,11 @@
 
 <br>
 <details><summary><strong>Recent Projects</strong></summary>
-Click <a href="https://github.com/tonyruizo-meta-coursera/capstone-little-lemon">here</a> to see view the code.</p></details>
+  <br>
+  <p>Meta Capstone</p>
+  <p><img src="metaCapstoneProject.gif" alt="Alt Text" height="200"/></p>
+  <a href="https://github.com/tonyruizo-meta-coursera/capstone-little-lemon">View Code</a>
+</details>
 <br>
 
 ## How to reach me
