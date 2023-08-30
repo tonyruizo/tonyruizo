@@ -1,7 +1,16 @@
+<hr>
+<p align="center"><strong>Curious, adaptable, and willing to learn.</strong></p>
+<hr>
 
-
-## Bio
-<p>Hello, I'm passionate about software development and enjoy connecting with like-minded individuals.</p>
+## Experience
+<details><summary><strong>Social Network Platform</strong></summary>
+<br>
+<strong>Frontend:</strong> HTML5, CSS, JavaScript, jQuery <br>
+<strong>Backend:</strong> VB.NET <br>
+<strong>Database:</strong> SQL Server
+<br>
+<strong>Frameworks:</strong> ASP.NET Webforms
+</details>
 
 <br>
 
@@ -16,7 +25,7 @@
 <br>
 
 ## Education
-<details><summary><strong>Degree</strong></summary><p>Computer Programming and Analysis A.S. @ <a href="https://www.hccfl.edu/">HCC</a>.</p>
+<details><summary><strong>Degree</strong></summary><p>Computer Programming and Analysis A.S. @ <a href="https://www.hccfl.edu/academics/subjects/information-technology/computer-programming-and-analysis">HCC</a>.</p>
   <p><i>Present - Fall 2024</i></p></details>
 
 <details><summary><strong>Certifications</strong></summary><p>Meta Front-End Developer Certification - offered by <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer#about">Meta staff</a>. 
