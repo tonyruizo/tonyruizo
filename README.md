@@ -1,3 +1,4 @@
+<img src="profileBanner.png" alt="profile banner"  />
 <hr>
 <p align="center"><strong>Curious, adaptable, and willing to learn.</strong></p>
 <hr>
@@ -21,8 +22,8 @@
 <details><summary><strong>Recent Project</strong></summary>
   <br>
   <p>Meta Capstone Project using <a href="https://react.dev/">React.js</a></p>
-  <p></p><a href="https://tonyruizo-little-lemon.netlify.app/" target="_blank"><img src
-="metaCapstoneProject.gif" alt="Alt Text" height="200"/></a></p>
+  <p></p><a href="https://tonyruizo-little-lemon.netlify.app/" target="_blank">
+    <img src="metaCapstoneProject.gif" alt="project demo gif" height="200"/></a></p>
   <a href="https://github.com/tonyruizo-meta-coursera/capstone-little-lemon" target="_blank">View Code</a> | <a href="https://tonyruizo-little-lemon.netlify.app/" target="_blank"> View Demo</a>
 </details>
 
