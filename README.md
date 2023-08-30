@@ -4,6 +4,9 @@
 
 ## Experience
 <details><summary><strong>Social Network Platform</strong></summary>
+
+<I>Currently in development</I> 
+<br>
 <br>
 <strong>Frontend:</strong> HTML5, CSS, JavaScript, jQuery <br>
 <strong>Backend:</strong> VB.NET <br>
@@ -18,7 +21,8 @@
 <details><summary><strong>Recent Project</strong></summary>
   <br>
   <p>Meta Capstone Project using <a href="https://react.dev/">React.js</a></p>
-  <p></p><a href="https://tonyruizo-little-lemon.netlify.app/" target="_blank"><img src="metaCapstoneProject.gif" alt="Alt Text" height="200"/></a></p>
+  <p></p><a href="https://tonyruizo-little-lemon.netlify.app/" target="_blank"><img src
+="metaCapstoneProject.gif" alt="Alt Text" height="200"/></a></p>
   <a href="https://github.com/tonyruizo-meta-coursera/capstone-little-lemon">View Code</a>
 </details>
 
