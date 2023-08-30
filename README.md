@@ -8,7 +8,7 @@
 <I>Currently in development</I> 
 <br>
 <br>
-<strong>Frontend:</strong> HTML5, CSS, JavaScript, jQuery <br>
+<strong>Frontend:</strong> HTML5, CSS, Bootstrap, jQuery <br>
 <strong>Backend:</strong> VB.NET <br>
 <strong>Database:</strong> SQL Server
 <br>
