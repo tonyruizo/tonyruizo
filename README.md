@@ -1,9 +1,9 @@
 ## Experience
-<details><summary><strong>Social Network Platform</strong></summary>
+<details><summary><strong>Social Network Platform - Developer</strong></summary>
 
 <I>Currently in development</I> 
 <br>
-<br>
+<p>Tools using:</p>
 <strong>Frontend:</strong> HTML5, CSS, Bootstrap, jQuery <br>
 <strong>Backend:</strong> VB.NET <br>
 <strong>Database:</strong> SQL Server
@@ -37,6 +37,7 @@
 
 ## How to reach me
 <p>Email @ <a href="mailto:tonyruizo@pm.me">tonyruizo@pm.me<a/></p>
-<p>Social Links: <a href="https://www.linkedin.com/in/tonyruizo/">Linkedin<a/>, <a href="https://twitter.com/tonyruizo">Twitter<a/> 
+<p>Social Links: <a href="https://www.linkedin.com/in/tonyruizo/">Linkedin<a/>, <a href
+="https://twitter.com/tonyruizo">Twitter<a/> 
 
   
