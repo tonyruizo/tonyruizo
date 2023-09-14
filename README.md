@@ -1,8 +1,3 @@
-<img src="profileBanner.png" alt="profile banner"  />
-<hr>
-<p align="center"><strong>Curious, adaptable, and willing to learn.</strong></p>
-<hr>
-
 ## Experience
 <details><summary><strong>Social Network Platform</strong></summary>
 
@@ -33,7 +28,7 @@
 <details><summary><strong>Degree</strong></summary><p>Computer Programming and Analysis A.S. @ <a href="https://www.hccfl.edu/academics/subjects/information-technology/computer-programming-and-analysis">HCC</a>.</p>
   <p><i>Present - Fall 2024</i></p></details>
 
-<details><summary><strong>Certifications</strong></summary><p>Meta Front-End Developer Certification - offered by <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer#about">Meta staff</a>. 
+<details><summary><strong>Certifications</strong></summary><p>Front-End Developer Certification - offered by <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer#about">Meta staff</a>. 
   <p><img src="Meta-front-end-cert.png" width="250"
  height="200" /></p>
   Click <a href="https://github.com/tonyruizo-meta-coursera">here</a> to view repos.</p></details>
