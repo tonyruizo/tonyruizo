@@ -2,8 +2,8 @@
 <details><summary><strong>Social Network Platform - Web Developer</strong></summary>
 
 <I>Currently in development: </I> 
-<p><strong><a href="https://joinameet.com">Joinameet.com</a></strong></p>
-<p>Joinameet offers an accessible means of interacting with individuals who share similar interests, while also facilitating event discovery, group formation, planning, RSVPs, and invitations on a user-friendly social platform.</p>
+<p><strong><a href="https://greatmeets.com">Great Meets</a></strong></p>
+<p>Great Meets offers an accessible means of interacting with individuals who share similar interests, while also facilitating event discovery, group formation, planning, RSVPs, and invitations on a user-friendly social platform.</p>
 <strong>Frontend:</strong> HTML5, CSS, Bootstrap, jQuery <br>
 <strong>Backend:</strong> VB.NET <br>
 <strong>Database:</strong> SQL Server
