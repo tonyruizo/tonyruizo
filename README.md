@@ -8,7 +8,7 @@
 <strong>Backend:</strong> VB.NET <br>
 <strong>Database:</strong> SQL Server
 <br>
-<strong>Frameworks:</strong> ASP.NET Webforms
+<strong>Frameworks:</strong> ASP.NET 
 </details>
 
 <br>
