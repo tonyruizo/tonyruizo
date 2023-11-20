@@ -3,7 +3,7 @@
 
 <I>Currently in development: </I> 
 <p><strong><a href="https://greatmeets.com">Great Meets</a></strong></p>
-<p>Great Meets offers an accessible means of interacting with individuals who share similar interests, while also facilitating event discovery, group formation, planning, RSVPs, and invitations on a user-friendly social platform.</p>
+<p>Great Meets offers an accessible means of interacting with individuals who share similar interests while also facilitating event discovery, group formation, planning, RSVPs, and invitations on a user-friendly social platform.</p>
 <strong>Frontend:</strong> HTML5, CSS, Bootstrap, jQuery <br>
 <strong>Backend:</strong> VB.NET <br>
 <strong>Database:</strong> SQL Server
@@ -16,7 +16,7 @@
 ## Projects
 <details><summary><strong>Recent Project</strong></summary>
   <br>
-  <p>Meta Capstone Project using <a href="https://react.dev/">React.js</a></p>
+  <p>Restaurant Web App using <a href="https://react.dev/">React.js</a></p>
   <p></p><a href="https://tonyruizo-little-lemon.netlify.app/" target="_blank">
     <img src="metaCapstoneProject.gif" alt="project demo gif" height="200"/></a></p>
   <a href="https://github.com/tonyruizo-meta-coursera/capstone-little-lemon" target="_blank">View Code</a> | <a href="https://tonyruizo-little-lemon.netlify.app/" target="_blank"> View Demo</a>
