@@ -1,4 +1,6 @@
-My interests are Web Development, Software Development, and Embedded Systems.
+
+
+![Codewars](https://www.codewars.com/users/tonyruizo/badges/micro)
 
 Personal Portfolio <a href="https://tonyruizo.me" target="_target">tonyruizo.me</a>
 
