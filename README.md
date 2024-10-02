@@ -1,6 +1,7 @@
 
 
-![Codewars](https://www.codewars.com/users/tonyruizo/badges/micro)
+[![Codewars](https://www.codewars.com/users/tonyruizo/badges/micro)](https://www.codewars.com/users/tonyruizo)
+
 
 Personal Portfolio <a href="https://tonyruizo.me" target="_target">tonyruizo.me</a>
 
